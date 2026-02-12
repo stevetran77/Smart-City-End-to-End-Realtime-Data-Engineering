@@ -1,0 +1,9 @@
+# Instruction for Github Copilot
+.github/
+
+# Serena MCP for context management while working with Github Copilot
+.serena/
+
+
+# VSCode settings and extensions
+.vscode
